@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "USB-C Cable",
+    "Quantity": 40,
+    "DateAdded": "2025-08-15T08:57:40.6926384+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "HDMI Adapter",
+    "Quantity": 25,
+    "DateAdded": "2025-08-15T08:57:40.6968353+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Notebook A5",
+    "Quantity": 100,
+    "DateAdded": "2025-08-15T08:57:40.6968372+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Pen Blue",
+    "Quantity": 250,
+    "DateAdded": "2025-08-15T08:57:40.6968373+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Stapler",
+    "Quantity": 15,
+    "DateAdded": "2025-08-15T08:57:40.6968374+00:00"
+  }
+]

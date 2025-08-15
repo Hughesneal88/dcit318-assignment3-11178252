@@ -1,0 +1,15 @@
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\bin\Debug\net9.0\Q5_Inventory.exe
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\bin\Debug\net9.0\Q5_Inventory.deps.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\bin\Debug\net9.0\Q5_Inventory.runtimeconfig.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\bin\Debug\net9.0\Q5_Inventory.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\bin\Debug\net9.0\Q5_Inventory.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\Q5_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\Q5_Inventory.AssemblyInfoInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\Q5_Inventory.AssemblyInfo.cs
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\Q5_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\Q5_Inventory.sourcelink.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\Q5_Inventory.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\refint\Q5_Inventory.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\Q5_Inventory.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\Q5_Inventory.genruntimeconfig.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q5_Inventory\obj\Debug\net9.0\ref\Q5_Inventory.dll
