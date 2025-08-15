@@ -1,0 +1,15 @@
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\bin\Debug\net9.0\Q1_Finance.exe
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\bin\Debug\net9.0\Q1_Finance.deps.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\bin\Debug\net9.0\Q1_Finance.runtimeconfig.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\bin\Debug\net9.0\Q1_Finance.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\bin\Debug\net9.0\Q1_Finance.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\Q1_Finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\Q1_Finance.AssemblyInfoInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\Q1_Finance.AssemblyInfo.cs
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\Q1_Finance.csproj.CoreCompileInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\Q1_Finance.sourcelink.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\Q1_Finance.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\refint\Q1_Finance.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\Q1_Finance.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\Q1_Finance.genruntimeconfig.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q1_Finance\Q1_Finance\obj\Debug\net9.0\ref\Q1_Finance.dll
