@@ -1,0 +1,15 @@
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.exe
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.deps.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.runtimeconfig.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\bin\Debug\net9.0\Q3_Warehouse.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.AssemblyInfoInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.AssemblyInfo.cs
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.sourcelink.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\refint\Q3_Warehouse.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\Q3_Warehouse.genruntimeconfig.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q3_Warehouse\obj\Debug\net9.0\ref\Q3_Warehouse.dll
