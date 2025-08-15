@@ -1,0 +1,4 @@
+101,Alice Smith,84
+102,John Mensah,73
+103,Ama Owusu,58
+104,Kofi Asare,47

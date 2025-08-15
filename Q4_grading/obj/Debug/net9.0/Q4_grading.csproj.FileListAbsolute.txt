@@ -1,0 +1,15 @@
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\bin\Debug\net9.0\Q4_grading.exe
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\bin\Debug\net9.0\Q4_grading.deps.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\bin\Debug\net9.0\Q4_grading.runtimeconfig.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\bin\Debug\net9.0\Q4_grading.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\bin\Debug\net9.0\Q4_grading.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\Q4_grading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\Q4_grading.AssemblyInfoInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\Q4_grading.AssemblyInfo.cs
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\Q4_grading.csproj.CoreCompileInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\Q4_grading.sourcelink.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\Q4_grading.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\refint\Q4_grading.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\Q4_grading.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\Q4_grading.genruntimeconfig.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q4_grading\obj\Debug\net9.0\ref\Q4_grading.dll

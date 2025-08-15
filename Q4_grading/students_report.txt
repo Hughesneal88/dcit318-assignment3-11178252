@@ -1,0 +1,4 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+John Mensah (ID: 102): Score = 73, Grade = B
+Ama Owusu (ID: 103): Score = 58, Grade = D
+Kofi Asare (ID: 104): Score = 47, Grade = F
