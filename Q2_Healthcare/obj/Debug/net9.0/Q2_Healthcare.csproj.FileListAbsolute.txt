@@ -1,0 +1,15 @@
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\bin\Debug\net9.0\Q2_Healthcare.exe
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\bin\Debug\net9.0\Q2_Healthcare.deps.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\bin\Debug\net9.0\Q2_Healthcare.runtimeconfig.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\bin\Debug\net9.0\Q2_Healthcare.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\bin\Debug\net9.0\Q2_Healthcare.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\Q2_Healthcare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\Q2_Healthcare.AssemblyInfoInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\Q2_Healthcare.AssemblyInfo.cs
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\Q2_Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\Q2_Healthcare.sourcelink.json
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\Q2_Healthcare.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\refint\Q2_Healthcare.dll
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\Q2_Healthcare.pdb
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\Q2_Healthcare.genruntimeconfig.cache
+C:\Users\Hughe\Documents\SCHOOL\DCIT 318\dcit318-assignment3-11178252\Q2_Healthcare\obj\Debug\net9.0\ref\Q2_Healthcare.dll
